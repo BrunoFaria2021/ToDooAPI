@@ -1,0 +1,56 @@
+# Visual Studio files
+*.suo
+*.cache
+*.pdb
+*.user
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sln
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.log
+*.lib
+*.sbr
+*.dll
+*.idb
+*.exe
+*.resx
+*.resources
+*.obj
+*.pch
+*.aps
+*.clw
+*.cpp
+*.h
+*.hpp
+*.inl
+*.mak
+*.ncb
+*.res
+*.txt
+*.dsw
+*.dsp
+*.opt
+*.plg
+*.exp
+*.manifest
+*.settings
+*.userprefs
+*.DotSettings
+*.csproj.user
+*.sln.docstates
+*.opensdf
+
+# NuGet
+packages/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Resharper
+_resharper*/ 
